@@ -40,7 +40,9 @@
 
 ## Скриншоты
 
-_Появятся в ближайших релизах. Пока — соберите и запустите._
+<img width="1137" height="817" alt="Screenshot02" src="https://github.com/user-attachments/assets/d8a73bbe-7836-4a17-9b9f-38bd68b41cc9" />
+<img width="1143" height="821" alt="Screenshot01" src="https://github.com/user-attachments/assets/74bf1e59-64b9-40bf-a1b8-1f23d051f088" />
+
 
 ## Требования к системе
 
