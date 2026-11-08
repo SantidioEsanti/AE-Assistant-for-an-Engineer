@@ -42,8 +42,9 @@ markdown
 
 ## Скриншоты
 
-<img width="1143" height="821" alt="Screenshot01" src="https://github.com/user-attachments/assets/49c00afb-87ce-4a2b-8182-1babff5c5078" />
-<img width="1137" height="817" alt="Screenshot02" src="https://github.com/user-attachments/assets/27c68efc-656f-4f2d-abfc-9a1d133334d6" />
+<img width="1136" height="813" alt="Screenshot02" src="https://github.com/user-attachments/assets/4b95392f-1b8e-4e30-aa40-6ca74bd5d268" />
+<img width="1136" height="813" alt="Screenshot01" src="https://github.com/user-attachments/assets/12b9f825-0762-428a-9748-c3c788f932f5" />
+
 
 
 ## Требования к системе
