@@ -211,5 +211,3 @@ snowballstemmer — стемминг русского/английского.
 
 Python, PyInstaller,
 SQLite — рантайм и упаковка.
-
-<p align="center"> <sub>AE — Assistant for an Engineer · Beta 0.7.0 · MIT License</sub> </p> ``
