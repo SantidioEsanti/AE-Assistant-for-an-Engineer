@@ -1,3 +1,5 @@
+
+markdown
 # AE — Assistant for an Engineer
 
 [![Version](https://img.shields.io/badge/version-0.7.0--beta-yellow)]()
@@ -40,8 +42,8 @@
 
 ## Скриншоты
 
-<img width="1137" height="817" alt="Screenshot02" src="https://github.com/user-attachments/assets/d8a73bbe-7836-4a17-9b9f-38bd68b41cc9" />
-<img width="1143" height="821" alt="Screenshot01" src="https://github.com/user-attachments/assets/74bf1e59-64b9-40bf-a1b8-1f23d051f088" />
+<img width="1143" height="821" alt="Screenshot01" src="https://github.com/user-attachments/assets/49c00afb-87ce-4a2b-8182-1babff5c5078" />
+<img width="1137" height="817" alt="Screenshot02" src="https://github.com/user-attachments/assets/27c68efc-656f-4f2d-abfc-9a1d133334d6" />
 
 
 ## Требования к системе
@@ -164,16 +166,14 @@ ID глобально уникален по всей базе. new_id = max(вс
 выполнена автором вручную с опорой на профильную литературу и
 нормативные документы (Правила РС, СОЛАС, МАРПОЛ, ISO 8217 и др.).
 
-# Поддержать автора
+Поддержать автора
+Если проект оказался полезен — вы можете поддержать его развитие:
 
-Проект развивается в свободное время и остаётся бесплатным и открытым.
-Если вам пригодился STL Viewer или вы хотите поддержать развитие
-библиотеки 3D‑моделей — буду искренне признателен за любую поддержку:
+https://img.shields.io/badge/Boosty-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-orange?logo=boosty
 
-# 💛 [boosty.to/santidioesanti](https://boosty.to/santidioesanti)
-
-Спасибо, что пользуетесь программой. Даже звезда на GitHub, баг‑репорт
-или просто доброе слово — уже большая помощь.
+Средства идут на покупку справочной литературы, оплату хостинга
+(для будущих английских версий), инструментов разработки и времени
+автора. Любая сумма — приятный бонус, но не обязательство.
 
 Другие способы помочь бесплатно:
 
@@ -187,7 +187,7 @@ ID глобально уникален по всей базе. new_id = max(вс
 
 Roadmap
 ☑ 0.7.0-beta — базовая версия: 355 статей, формулы, конвертер, калькулятор.
-□ 0.8.0 — английский интерфейс (i18n).
+□ 0.8.0 — английский интерфейс (i18n), тёмная/светлая темы.
 □ 0.9.0 — расширение базы до 500+ статей, экспорт профилей судов.
 □ 1.0.0 — стабильный API, документация по расширению базы.
 □ Возможные направления: голосовой ввод (Vosk, офлайн), Android-версия
@@ -215,3 +215,5 @@ snowballstemmer — стемминг русского/английского.
 
 Python, PyInstaller,
 SQLite — рантайм и упаковка.
+
+<p align="center"> <sub>AE — Assistant for an Engineer · Beta 0.7.0 · MIT License</sub> </p> ```
